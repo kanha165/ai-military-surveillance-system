@@ -27,7 +27,63 @@ The system is capable of detecting multiple military objects such as **tanks, mi
 ✅ Supports Webcam and Video Input
 
 ---
+## 📊 Dataset, Training & Model
 
+The model was trained using Kaggle GPU resources. You can access the complete training notebook, dataset, and download the trained model from the links below.
+
+### 🔗 Kaggle Training Notebook
+
+👉 **Notebook:**  
+https://www.kaggle.com/code/kanhapatidar/military-object-detection/notebook
+
+This notebook includes:
+
+- Dataset Loading
+- Data Preprocessing
+- Dataset Balancing
+- YOLOv8 Training
+- Model Evaluation
+- Result Visualization
+- Model Export
+
+---
+
+### 📁 Dataset
+
+👉 **Dataset:**  
+[Add Your Kaggle Dataset Link Here]
+
+Example:
+
+```text
+https://www.kaggle.com/datasets/your-username/military-dataset
+```
+
+---
+
+### 🤖 Download Trained Model
+
+The trained YOLOv8 model weights can be downloaded from the Kaggle notebook output section.
+
+After opening the notebook:
+
+1. Open the **Output** tab.
+2. Locate the trained weights file:
+   ```text
+   best.pt
+   ```
+3. Click **Download** to download the model.
+
+Alternatively, if you upload the model to Google Drive or GitHub Releases, provide the link below:
+
+👉 **Model Download:**
+
+```text
+https://github.com/kanha165/ai-military-surveillance-system/releases
+```
+
+---
+---
 ## 🎯 Detectable Classes
 
 The model is trained to detect the following military assets:
