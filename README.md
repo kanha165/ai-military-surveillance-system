@@ -51,7 +51,7 @@ This notebook includes:
 ### 📁 Dataset
 
 👉 **Dataset:**  
-[Add Your Kaggle Dataset Link Here]
+https://www.kaggle.com/datasets/rawsi18/military-assets-dataset-12-classes-yolo8-format
 
 Example:
 
